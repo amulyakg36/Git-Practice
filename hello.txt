@@ -1,2 +1,3 @@
 Hello, i am learning git and GitHub
 guide me to learn this 
+I am learning Git step by step
